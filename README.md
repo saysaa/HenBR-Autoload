@@ -32,3 +32,11 @@ Windows Security -> Virus & threat protection -> Virus & threat protection setti
 If you don't want to disable your antivirus, do this:
 
 Windows Security -> Virus & threat protection -> Exclusions -> Add or remove exclusions -> Then add the HenBR-Autoload folder
+
+## How does version numbering work?
+
+The first number indicates a new release.
+
+The second number indicates a major update.
+
+And the last number indicates a minor update or addition.
