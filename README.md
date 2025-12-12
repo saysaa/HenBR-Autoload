@@ -35,8 +35,8 @@ Windows Security -> Virus & threat protection -> Exclusions -> Add or remove exc
 
 ## How does version numbering work?
 
-The first number indicates a new release.
+The first number indicates a new release.                  1
 
-The second number indicates a major update.
-
-And the last number indicates a minor update or addition.
+The second number indicates a major update.                0
+      
+And the last number indicates a minor update or addition.  0
