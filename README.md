@@ -8,10 +8,9 @@ _________________________________________
 It uses Python's `requests` function to retrieve the latest GitHub release of the selected exploit.
 
 
-# Will there be updates?
+## Will there be updates?
 
 Yes, of course there will be updates when more exploits are released or if I've forgotten some.
-
 
 # What's the point of this?
 
