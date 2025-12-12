@@ -3,7 +3,7 @@ Download any PS4 exploit in one click
 _________________________________________
 
 
-# How does HenBR work?
+## How does HenBR work?
 
 It uses Python's `requests` function to retrieve the latest GitHub release of the selected exploit.
 
@@ -12,12 +12,12 @@ It uses Python's `requests` function to retrieve the latest GitHub release of th
 
 Yes, of course there will be updates when more exploits are released or if I've forgotten some.
 
-# What's the point of this?
+## What's the point of this?
 
 I found finding the source page for PS4 exploits relatively complicated, so I decided to create an automated script that downloads the one I want.
 
 
-# What do I need to install?
+## What do I need to install?
 
 You only need to install Python, then the program will automatically install the required modules (`pip install requests`).
 
